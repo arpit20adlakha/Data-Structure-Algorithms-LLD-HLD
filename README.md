@@ -10,6 +10,10 @@
 5. InterviewBit [Programming Path](https://www.interviewbit.com/courses/programming/)
 6. [GeekForGeeks Algo](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)
 7. [GeekForGeeks DS](https://www.geeksforgeeks.org/data-structures/?ref=shm)
+8. [List of Interview Questions based on Company](https://github.com/twowaits/SDE-Interview-Questions)
+9. [List of FAANG Questions seperated by Company](https://github.com/neerazz/FAANG)
+10. [Dynamic Programming Patterns Leetcode](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)
+11. [DS Algo Leetcode guide](https://leetcode.com/discuss/study-guide/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide)
 
 #### For Video Enthusiasts
 1. [FreeCodeCamp DSA](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=1744s)
@@ -25,15 +29,34 @@
 
 #### Compensation Related Information
 1. [LeetCode Compensation Section](https://leetcode.com/discuss/compensation?currentPage=1&orderBy=hot&query=)
-2. []
+2. [Levels.fyi](https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer)
+3. [LinkedIn Salaries](https://www.linkedin.com/salary/search?countryCode=in&geoId=102713980&keywords=software%20engineer)
+4. [GlassDoor Reviews and Salaries](https://www.glassdoor.co.in/Reviews/index.htm)
+5. [Blind](https://www.teamblind.com/company/Amazon/posts)
 
 ### Solving Practice Problems
 1. [CodeChef](https://www.codechef.com/)
 2. [GeeksForGeeks Practice](https://practice.geeksforgeeks.org/topic-tags/?ref=shm)
 3. [Leetcode](https://leetcode.com/)
-4. 
+4. []https://github.com/prasadgujar/low-level-design-primer
 
 
 ### Low Level Design
 1. [Work@Tech](https://workat.tech/practice)
-2. 
+2. [Github Repo](https://github.com/prasadgujar/low-level-design-primer)
+3. [Design Patterns For Low Level Design](https://github.com/iluwatar/java-design-patterns)
+
+
+### High Level System Design
+#### For Readers
+1. [Donne Martin System Design](https://github.com/donnemartin/system-design-primer)
+2. [High Scalability Website](http://highscalability.squarespace.com/blog/category/example)
+3. [System Design Collection of Concepts](https://sites.google.com/site/includemak/system-design)
+4. [System Design Architecture Diagrams](https://github.com/codekarle/system-design/tree/master/system-design-prep-material/architecture-diagrams)
+5. 
+
+#### For Video Enthusiasts
+1. [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+2. [Code Karle](https://www.codekarle.com/)
+3. 
+
