@@ -14,12 +14,14 @@
 9. [List of FAANG Questions seperated by Company](https://github.com/neerazz/FAANG)
 10. [Dynamic Programming Patterns Leetcode](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)
 11. [DS Algo Leetcode guide](https://leetcode.com/discuss/study-guide/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide)
+12. [Cp Algorithms site](http://cp-algorithms.com/)
+13. [Tech Interview Guide](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/)
 
 #### For Video Enthusiasts
 1. [FreeCodeCamp DSA](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=1744s)
 2. [MIT Course on ALGO](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 3. [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
-4. 
+4. [William Fiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
 5. 
 
 ### Places to Find Interview Experiences
