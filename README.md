@@ -16,6 +16,7 @@
 11. [DS Algo Leetcode guide](https://leetcode.com/discuss/study-guide/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide)
 12. [Cp Algorithms site](http://cp-algorithms.com/)
 13. [Tech Interview Guide](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/)
+14. [LeetCode DS Algo Guide](https://leetcode.com/discuss/study-guide/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide)
 
 #### For Video Enthusiasts
 1. [FreeCodeCamp DSA](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=1744s)
