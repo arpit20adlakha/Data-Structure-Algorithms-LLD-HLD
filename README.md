@@ -40,7 +40,7 @@
 1. [CodeChef](https://www.codechef.com/)
 2. [GeeksForGeeks Practice](https://practice.geeksforgeeks.org/topic-tags/?ref=shm)
 3. [Leetcode](https://leetcode.com/)
-4. []https://github.com/prasadgujar/low-level-design-primer
+4. [Low Level Primer](https://github.com/prasadgujar/low-level-design-primer)
 
 
 ### Low Level Design
