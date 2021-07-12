@@ -23,7 +23,6 @@
 2. [MIT Course on ALGO](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 3. [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
 4. [William Fiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
-5. 
 
 ### Places to Find Interview Experiences
 1. [GeeksForGeeks Interview Experience grouped by Company](https://www.geeksforgeeks.org/company-interview-corner/?ref=ghm)
@@ -61,5 +60,4 @@
 #### For Video Enthusiasts
 1. [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 2. [Code Karle](https://www.codekarle.com/)
-3. 
 
