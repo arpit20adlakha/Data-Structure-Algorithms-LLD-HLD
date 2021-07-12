@@ -40,14 +40,14 @@
 1. [CodeChef](https://www.codechef.com/)
 2. [GeeksForGeeks Practice](https://practice.geeksforgeeks.org/topic-tags/?ref=shm)
 3. [Leetcode](https://leetcode.com/)
-4. [Low Level Primer](https://github.com/prasadgujar/low-level-design-primer)
-
+4. [Hacker Rank](https://www.hackerrank.com/)
+4. [Hacker Earth](https://www.hackerearth.com/)
 
 ### Low Level Design
 1. [Work@Tech](https://workat.tech/practice)
 2. [Github Repo](https://github.com/prasadgujar/low-level-design-primer)
 3. [Design Patterns For Low Level Design](https://github.com/iluwatar/java-design-patterns)
-
+4. [Low Level Primer](https://github.com/prasadgujar/low-level-design-primer)
 
 ### High Level System Design
 #### For Readers
