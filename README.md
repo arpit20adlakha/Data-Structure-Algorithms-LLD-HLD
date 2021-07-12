@@ -55,7 +55,6 @@
 2. [High Scalability Website](http://highscalability.squarespace.com/blog/category/example)
 3. [System Design Collection of Concepts](https://sites.google.com/site/includemak/system-design)
 4. [System Design Architecture Diagrams](https://github.com/codekarle/system-design/tree/master/system-design-prep-material/architecture-diagrams)
-5. 
 
 #### For Video Enthusiasts
 1. [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
