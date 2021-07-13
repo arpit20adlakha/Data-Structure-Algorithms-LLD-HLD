@@ -60,3 +60,5 @@
 1. [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 2. [Code Karle](https://www.codekarle.com/)
 
+### DataBase Sample Designs and Basics
+1. [Vertabelo Database Articles](https://www.vertabelo.com/blog/)
