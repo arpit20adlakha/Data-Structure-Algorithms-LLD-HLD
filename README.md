@@ -56,6 +56,7 @@
 3. [System Design Collection of Concepts](https://sites.google.com/site/includemak/system-design)
 4. [System Design Architecture Diagrams](https://github.com/codekarle/system-design/tree/master/system-design-prep-material/architecture-diagrams)
 5. [Work@tech Collection of Tech Blogs](https://workat.tech/system-design/article/best-engineering-blogs-articles-videos-system-design-tvwa05b8bzzr)
+6. [System Design Collection of Concepts](https://medium.com/system-design-blog)
 
 #### For Video Enthusiasts
 1. [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
