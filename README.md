@@ -17,6 +17,7 @@
 12. [Cp Algorithms site](http://cp-algorithms.com/)
 13. [Tech Interview Guide](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/)
 14. [LeetCode DS Algo Guide](https://leetcode.com/discuss/study-guide/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide)
+15. [Github Repo Top University Courses Compilation](https://github.com/prakhar1989/awesome-courses#programming-languages--compilers)
 
 #### For Video Enthusiasts
 1. [FreeCodeCamp DSA](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=1744s)
