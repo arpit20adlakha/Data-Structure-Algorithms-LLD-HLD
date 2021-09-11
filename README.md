@@ -67,3 +67,12 @@
 
 ### DataBase Sample Designs and Basics
 1. [Vertabelo Database Articles](https://www.vertabelo.com/blog/)
+
+
+### Github Repos for all things Software
+1. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+2. [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+3. [Programming Ebooks Repo](https://github.com/EbookFoundation/free-programming-books)
+4. [List of Public Apis](https://github.com/public-apis/public-apis)
+5. [Developer RoadMap Repo](https://github.com/kamranahmedse/developer-roadmap)
+6. [Awesome Web Resources](https://github.com/sindresorhus/awesome)
