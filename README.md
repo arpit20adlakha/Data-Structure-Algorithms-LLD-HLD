@@ -50,6 +50,7 @@
 2. [Github Repo](https://github.com/prasadgujar/low-level-design-primer)
 3. [Design Patterns For Low Level Design](https://github.com/iluwatar/java-design-patterns)
 4. [Low Level Primer](https://github.com/prasadgujar/low-level-design-primer)
+5. [Design Patterns Simplified](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ### High Level System Design
 #### For Readers
