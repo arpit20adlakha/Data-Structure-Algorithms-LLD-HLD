@@ -80,5 +80,5 @@
 
 
 
-## Please start the repo if you find it helpfull :)
+## Please star ⭐ the repo if you find it helpfull :)
 
