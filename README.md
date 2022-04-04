@@ -69,6 +69,7 @@
 5. [Work@tech Collection of Tech Blogs](https://workat.tech/system-design/article/best-engineering-blogs-articles-videos-system-design-tvwa05b8bzzr)
 6. [System Design Collection of Concepts](https://medium.com/system-design-blog)
 7. [Azure architecture center](https://docs.microsoft.com/en-us/azure/architecture/guide/)
+8. [System design questions collection](https://github.com/relogX/system-design-questions)
 
 #### For Video Enthusiasts
 1. [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
