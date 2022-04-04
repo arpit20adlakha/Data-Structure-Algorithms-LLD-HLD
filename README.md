@@ -74,6 +74,7 @@
 1. [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 2. [Code Karle](https://www.codekarle.com/)
 3. [InfoQ](https://www.youtube.com/nctv/videos)
+4. [Backend Engineering 101](https://www.youtube.com/c/HusseinNasser-software-engineering)
 
 ### DataBase Sample Designs and Basics
 1. [Vertabelo Database Articles](https://www.vertabelo.com/blog/)
