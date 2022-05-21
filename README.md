@@ -70,6 +70,7 @@
 6. [System Design Collection of Concepts](https://medium.com/system-design-blog)
 7. [Azure architecture center](https://docs.microsoft.com/en-us/azure/architecture/guide/)
 8. [System design questions collection](https://github.com/relogX/system-design-questions)
+9. [System Design Best Papers and Talks](https://github.com/InterviewReady/system-design-resources)
 
 #### For Video Enthusiasts
 1. [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
