@@ -72,6 +72,7 @@
 8. [System design questions collection](https://github.com/relogX/system-design-questions)
 9. [System Design Best Papers and Talks](https://github.com/InterviewReady/system-design-resources)
 10. [Company and Individual Blogs](https://github.com/kilimchoi/engineering-blogs)
+11. [Just Another Collection](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
 
 #### For Video Enthusiasts
 1. [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
