@@ -61,11 +61,15 @@
 6. [Video Tutorials](https://www.youtube.com/channel/UClsDOM_9oudXbaXK85wWAOQ)
 
 ### Low Level Design Questions and Solution
-1.[Snake and Ladder](https://github.com/championswimmer/low-level-design-problem/tree/main/solutions/java/03-snakeladder)
-2.[Wordle](https://github.com/championswimmer/low-level-design-problem/tree/main/solutions/java/02-wordle)
+1. [Snake and Ladder](https://github.com/championswimmer/low-level-design-problem/tree/main/solutions/java/03-snakeladder)
+2. [Wordle](https://github.com/championswimmer/low-level-design-problem/tree/main/solutions/java/02-wordle)
 3. [BattleShip](https://github.com/arpit20adlakha/BattleShip)
 4. [Logger](https://github.com/arpit20adlakha/Logger-LLD)
-5. 
+5. [LLD Caching](https://github.com/anomaly2104/cache-low-level-system-design)
+6. [Ticket Booking System](https://github.com/anomaly2104/ticket-booking-low-level-system-design)
+7. [Cab Booking System](https://github.com/anomaly2104/lld-cab-booking-ola-uber-grab-lyft)
+8. [Car Rental](https://github.com/gopalbala/carrental)
+9. [Distributed Id generation](https://github.com/gopalbala/distributed-idgen)
 
 
 ### High Level System Design
