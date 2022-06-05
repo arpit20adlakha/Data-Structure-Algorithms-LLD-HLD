@@ -92,8 +92,9 @@
 3. [InfoQ](https://www.youtube.com/nctv/videos)
 4. [Backend Engineering 101](https://www.youtube.com/c/HusseinNasser-software-engineering)
 
-### DataBase Sample Designs and Basics
+### DataBase Designs, SQL vs NoSQl
 1. [Vertabelo Database Articles](https://www.vertabelo.com/blog/)
+2. [InDepth Comparison SQL Vs NOSQL](https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56106)
 
 
 ### Github Repos for all things Software
