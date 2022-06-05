@@ -60,6 +60,14 @@
 5. [Design Patterns Simplified](https://github.com/kamranahmedse/design-patterns-for-humans)
 6. [Video Tutorials](https://www.youtube.com/channel/UClsDOM_9oudXbaXK85wWAOQ)
 
+### Low Level Design Questions and Solution
+1.[Snake and Ladder](https://github.com/championswimmer/low-level-design-problem/tree/main/solutions/java/03-snakeladder)
+2.[Wordle](https://github.com/championswimmer/low-level-design-problem/tree/main/solutions/java/02-wordle)
+3. [BattleShip](https://github.com/arpit20adlakha/BattleShip)
+4. [Logger](https://github.com/arpit20adlakha/Logger-LLD)
+5. 
+
+
 ### High Level System Design
 #### For Readers
 1. [Donne Martin System Design](https://github.com/donnemartin/system-design-primer)
