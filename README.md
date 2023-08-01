@@ -85,6 +85,8 @@
 9. [System Design Best Papers and Talks](https://github.com/InterviewReady/system-design-resources)
 10. [Company and Individual Blogs](https://github.com/kilimchoi/engineering-blogs)
 11. [Just Another Collection](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
+12. [Martin Fowler](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+13. [Baisc Concepts Nicely Explained](https://www.linkedin.com/newsletters/distributed-systems-made-easy-6937319059256397824/)
 
 #### For Video Enthusiasts
 1. [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
