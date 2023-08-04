@@ -87,6 +87,7 @@
 11. [Just Another Collection](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
 12. [Martin Fowler](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 13. [Baisc Concepts Nicely Explained](https://www.linkedin.com/newsletters/distributed-systems-made-easy-6937319059256397824/)
+14. [AWS System Design Concepts Compilation](https://aws.amazon.com/builders-library/)
 
 #### For Video Enthusiasts
 1. [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
