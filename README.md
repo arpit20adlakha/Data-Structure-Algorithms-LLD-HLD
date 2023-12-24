@@ -58,7 +58,8 @@
 3. [Design Patterns For Low Level Design](https://github.com/iluwatar/java-design-patterns)
 4. [Low Level Primer](https://github.com/prasadgujar/low-level-design-primer)
 5. [Design Patterns Simplified](https://github.com/kamranahmedse/design-patterns-for-humans)
-6. [Video Tutorials](https://www.youtube.com/channel/UClsDOM_9oudXbaXK85wWAOQ)
+6. [LLD Coding](https://lldcoding.com)
+7. [Video Tutorials](https://www.youtube.com/channel/UClsDOM_9oudXbaXK85wWAOQ)
 
 ### Low Level Design Questions and Solution
 1. [Snake and Ladder](https://github.com/championswimmer/low-level-design-problem/tree/main/solutions/java/03-snakeladder)
