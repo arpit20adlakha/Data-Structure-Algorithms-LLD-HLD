@@ -109,6 +109,7 @@
 4. [List of Public Apis](https://github.com/public-apis/public-apis)
 5. [Developer RoadMap Repo](https://github.com/kamranahmedse/developer-roadmap)
 6. [Awesome Web Resources](https://github.com/sindresorhus/awesome)
+7. [Customised interview preparation based on the time you have](https://www.techinterviewhandbook.org/grind75)
 
 ### Interview Day Help
 1. [Questions to Ask Yourself while solving Problems](https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/edit#gid=0)
