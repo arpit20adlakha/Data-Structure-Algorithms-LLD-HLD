@@ -115,8 +115,6 @@
 1. [Questions to Ask Yourself while solving Problems](https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/edit#gid=0)
 
 
-System Design Topics and Preparation
-
 ## System Design Fundamentals
 
 - [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
@@ -215,10 +213,20 @@ System Design Topics and Preparation
 - [Design Distributed Locking Service](https://www.youtube.com/watch?v=v7x75aN9liM)
 
 ## Must-Read Engineering Articles
-- [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+- [Building and Operating S3 the biggest storage system](https://lnkd.in/g65anHkf)
+- [Modern Load Balancing and Networking by the creator of Envoy](https://lnkd.in/gn4BA3sD)
+- [The Log: What every software engineer should know about real-time data's unifying abstraction](https://lnkd.in/gQ7WsE8k)
+- [Keeping Netflix reliable using Load Shedding](https://lnkd.in/gSx8p32U)
+- [How Discord stores billions of messages](https://lnkd.in/gduE8Kgx)
+- [How Discord stores trillions of messages](https://lnkd.in/gRNwqnuH)
+- [Netflix Fault Tolerance in a high volume distributed system](https://lnkd.in/gGFensR4)
+- [How Pinterest runs Kafka at scale](https://lnkd.in/gb5skEtU)
+- [How browsers work](https://lnkd.in/gumG6WQw)
+- [Practical Guide to Kafka Storage Internals](https://lnkd.in/gA9XJteP)
 - [Building In-Video Search](https://netflixtechblog.com/building-in-video-search-936766f0017c)
 - [How Canva scaled Media uploads from Zero to 50 Million per Day](https://www.canva.dev/blog/engineering/from-zero-to-50-million-uploads-per-day-scaling-media-at-canva/)
 - [How Airbnb avoids double payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+- [Airbnb Delayed Job Queuing System](https://medium.com/airbnb-engineering/dynein-building-a-distributed-delayed-job-queueing-system-93ab10f05f99)
 - [Stripe’s payments APIs - The first 10 years](https://stripe.com/blog/payment-api-design)
 - [Real time messaging at Slack](https://slack.engineering/real-time-messaging/)
 
