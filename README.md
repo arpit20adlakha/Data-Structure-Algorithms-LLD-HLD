@@ -115,14 +115,16 @@
 1. [Questions to Ask Yourself while solving Problems](https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/edit#gid=0)
 
 
-## System Design Fundamentals
 
+## System Design Fundamentals
 - [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 - [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
 - [Caching Patterns](https://newsletter.systemdesign.one/p/caching-patterns)
 - [Distributed Caching](https://redis.com/glossary/distributed-caching/)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
+- [Event-Driven Architecture: Request/Reply Processing]https://www.developertoarchitect.com/lessons/lesson1.html
+- [How Kafka Differs From Standard Messaging](https://www.developertoarchitect.com/lessons/lesson2.html)
 - [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
 - [ACID Transactions](https://redis.com/glossary/acid-transactions/)
 - [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/)
