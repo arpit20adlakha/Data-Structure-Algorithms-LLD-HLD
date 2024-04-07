@@ -96,6 +96,7 @@
 3. [InfoQ](https://www.youtube.com/nctv/videos)
 4. [Backend Engineering 101](https://www.youtube.com/c/HusseinNasser-software-engineering)
 5. [Alex Xu Byte Byte Go](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw)
+6. [Database Depth CMU](https://www.youtube.com/c/CMUDatabaseGroup/videos)
 
 ### DataBase Designs, SQL vs NoSQl
 1. [Vertabelo Database Articles](https://www.vertabelo.com/blog/)
