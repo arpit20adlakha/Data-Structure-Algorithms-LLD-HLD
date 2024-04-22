@@ -134,7 +134,7 @@
 - [Disk IO Part 2](https://medium.com/databasss/on-disk-io-part-2-more-flavours-of-io-c945db3edb13)
 - [Disk IO Part 3](https://medium.com/databasss/on-disk-io-part-3-lsm-trees-8b2da218496f)
 - [ACID Transactions](https://redis.com/glossary/acid-transactions/)
-- - [How Uber predicts Arrival Times](https://www.uber.com/en-IN/blog/deepeta-how-uber-predicts-arrival-times/)
+- [How Uber predicts Arrival Times](https://www.uber.com/en-IN/blog/deepeta-how-uber-predicts-arrival-times/)
 - [How LedgerStore stores trillion indexes at Uber](https://www.uber.com/en-IN/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=bb28014d-a32a-45a5-b67d-0e87d1bed96c)
 - [Modern Load Balancing and Networking by the creator of Envoy](https://lnkd.in/gn4BA3sD)
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://lnkd.in/gQ7WsE8k)
