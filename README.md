@@ -126,6 +126,7 @@
 - [Caching Patterns](https://aws.amazon.com/caching/)
 - [Distributed Caching](https://redis.com/glossary/distributed-caching/)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
+- [Uptime calculation for SLA](https://uptime.is/)
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
 - [Event-Driven Architecture: Request/Reply Processing](https://www.developertoarchitect.com/lessons/lesson1.html)
 - [How Kafka Differs From Standard Messaging](https://www.developertoarchitect.com/lessons/lesson2.html)
