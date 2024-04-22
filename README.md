@@ -168,9 +168,8 @@
 ## Must-Read Engineering Articles
 - [Modern Load Balancing and Networking by the creator of Envoy](https://lnkd.in/gn4BA3sD)
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://lnkd.in/gQ7WsE8k)
-- [𝐑𝐞𝐚𝐥 𝐭𝐢𝐦𝐞 𝐦𝐞𝐬𝐬𝐚𝐠𝐢𝐧𝐠 𝐚𝐭 𝐒𝐥𝐚𝐜𝐤](https://lnkd.in/gqsJ9TpN)
+- [One million online users in a single discord server](https://discord.com/blog/maxjourney-pushing-discords-limits-with-a-million-plus-online-users-in-a-single-server)
 - [𝐇𝐨𝐰 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐬𝐭𝐨𝐫𝐞𝐬 𝐓𝐫𝐢𝐥𝐥𝐢𝐨𝐧𝐬 𝐨𝐟 𝐌𝐞𝐬𝐬𝐚𝐠𝐞𝐬](https://lnkd.in/guKFkNW7)
-- [𝐇𝐨𝐰 𝐂𝐚𝐧𝐯𝐚 𝐬𝐜𝐚𝐥𝐞𝐝 𝐌𝐞𝐝𝐢𝐚 𝐮𝐩𝐥𝐨𝐚𝐝𝐬 𝐟𝐫𝐨𝐦 𝐙𝐞𝐫𝐨 𝐭𝐨 50 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐩𝐞𝐫 𝐃𝐚𝐲](https://lnkd.in/g-8-A8Xy)
 - [𝐂𝐚𝐩𝐭𝐮𝐫𝐢𝐧𝐠 𝐚 𝐁𝐢𝐥𝐥𝐢𝐨𝐧 𝐄𝐦𝐨𝐣𝐢𝐬 𝐚𝐭 𝐇𝐨𝐭𝐬𝐭𝐚𝐫](https://lnkd.in/gnTY4NCx)
 - [𝐇𝐨𝐰 𝐏𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐁𝐮𝐢𝐥𝐭 𝐚 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐔𝐬𝐞𝐫 𝐀𝐜𝐭𝐢𝐨𝐧 𝐂𝐨𝐮𝐧𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦 𝐟𝐨𝐫 𝐀𝐝𝐬](https://lnkd.in/gSRg368z)
 - [How Uber Serves 40 Million reads per second](https://www.uber.com/en-IN/blog/how-uber-serves-over-40-million-reads-per-second-using-an-integrated-cache/)
