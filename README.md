@@ -159,8 +159,7 @@
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
   
-## System Design Interview Problems
-### Easy
+## System Design Problems
 - [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
 - [Design URL Shortener like TinyURL](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
 - [Design Text Storage Service like Pastebin](https://www.youtube.com/watch?v=josjRSBqEBI)
@@ -172,8 +171,6 @@
 - [Design Distributed Job Scheduler](https://towardsdatascience.com/ace-the-system-design-interview-job-scheduling-system-b25693817950)
 - [Design Authentication System](https://www.youtube.com/watch?v=uj_4vxm9u90)
 - [Design Unified Payments Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
-  
-### Medium
 - [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
 - [Design Tinder](https://www.youtube.com/watch?v=tndzLznxq40)
 - [Design WhatsApp](https://www.youtube.com/watch?v=vvhC64hQZMk)
@@ -197,8 +194,6 @@
 - [Design an Analytics Platform (Metrics & Logging)](https://www.youtube.com/watch?v=kIcq1_pBQSY)
 - [Design Notification Service](https://www.youtube.com/watch?v=CUwt9_l0DOg)
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
-  
-### Hard
 - [Design Slack](https://systemdesign.one/slack-architecture/)
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
 - [Design Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
@@ -216,6 +211,17 @@
 - [Design Distributed Locking Service](https://www.youtube.com/watch?v=v7x75aN9liM)
 
 ## Must-Read Engineering Articles
+- [𝐑𝐞𝐚𝐥 𝐭𝐢𝐦𝐞 𝐦𝐞𝐬𝐬𝐚𝐠𝐢𝐧𝐠 𝐚𝐭 𝐒𝐥𝐚𝐜𝐤](https://lnkd.in/gqsJ9TpN)
+- [𝐇𝐨𝐰 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐬𝐭𝐨𝐫𝐞𝐬 𝐓𝐫𝐢𝐥𝐥𝐢𝐨𝐧𝐬 𝐨𝐟 𝐌𝐞𝐬𝐬𝐚𝐠𝐞𝐬](https://lnkd.in/guKFkNW7)
+- [𝐇𝐨𝐰 𝐂𝐚𝐧𝐯𝐚 𝐬𝐜𝐚𝐥𝐞𝐝 𝐌𝐞𝐝𝐢𝐚 𝐮𝐩𝐥𝐨𝐚𝐝𝐬 𝐟𝐫𝐨𝐦 𝐙𝐞𝐫𝐨 𝐭𝐨 50 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐩𝐞𝐫 𝐃𝐚𝐲](https://lnkd.in/g-8-A8Xy)
+- [𝐂𝐚𝐩𝐭𝐮𝐫𝐢𝐧𝐠 𝐚 𝐁𝐢𝐥𝐥𝐢𝐨𝐧 𝐄𝐦𝐨𝐣𝐢𝐬 𝐚𝐭 𝐇𝐨𝐭𝐬𝐭𝐚𝐫](https://lnkd.in/gnTY4NCx)
+- [𝐇𝐨𝐰 𝐏𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐁𝐮𝐢𝐥𝐭 𝐚 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐔𝐬𝐞𝐫 𝐀𝐜𝐭𝐢𝐨𝐧 𝐂𝐨𝐮𝐧𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦 𝐟𝐨𝐫 𝐀𝐝𝐬](https://lnkd.in/gSRg368z)
+- [How Uber Serves 40 Million reads per second](https://www.uber.com/en-IN/blog/how-uber-serves-over-40-million-reads-per-second-using-an-integrated-cache/)
+- [𝐇𝐨𝐰 𝐀𝐢𝐫𝐛𝐧𝐛 𝐀𝐯𝐨𝐢𝐝𝐬 𝐃𝐨𝐮𝐛𝐥𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭𝐬](https://lnkd.in/grmvy5Sp)
+- [𝐇𝐨𝐰 𝐔𝐛𝐞𝐫 𝐨𝐩𝐭𝐢𝐦𝐢𝐳𝐞𝐬 𝐭𝐡𝐞 𝐓𝐢𝐦𝐢𝐧𝐠 𝐨𝐟 𝐏𝐮𝐬𝐡 𝐍𝐨𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐮𝐬𝐢𝐧𝐠 𝐌𝐋](https://lnkd.in/gAsgiHY8)
+- [𝐇𝐨𝐰 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐮𝐬𝐞𝐬 𝐀𝐈 𝐭𝐨 𝐩𝐨𝐰𝐞𝐫 𝐢𝐭’𝐬 𝐌𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜](https://lnkd.in/g7AfdqFf)
+- [𝐓𝐡𝐞 𝐟𝐢𝐫𝐬𝐭 10 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐒𝐭𝐫𝐢𝐩𝐞’𝐬 𝐏𝐚𝐲𝐦𝐞𝐧𝐭𝐬 𝐀𝐏𝐈𝐬](https://lnkd.in/g9RYpbyr)
+- [𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐅𝐚𝐬𝐭𝐞𝐫 𝐈𝐧𝐝𝐞𝐱𝐢𝐧𝐠 𝐚𝐭 𝐃𝐨𝐨𝐫𝐃𝐚𝐬𝐡](https://lnkd.in/gk2ezN6v)
 - [Building and Operating S3 the biggest storage system](https://lnkd.in/g65anHkf)
 - [Modern Load Balancing and Networking by the creator of Envoy](https://lnkd.in/gn4BA3sD)
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://lnkd.in/gQ7WsE8k)
