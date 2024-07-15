@@ -90,6 +90,10 @@
 13. [Baisc Concepts Nicely Explained](https://www.linkedin.com/newsletters/distributed-systems-made-easy-6937319059256397824/)
 14. [AWS System Design Concepts Compilation](https://aws.amazon.com/builders-library/)
 15. [Byte Sized System Design by Alex Xu](https://github.com/ByteByteGoHq/system-design-101)
+16. [System Design Collection of Questions By Difficulty](https://github.com/ashishps1/awesome-system-design-resources)
+17. [System Design Chapter Wise](https://github.com/karanpratapsingh/system-design)
+18. [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+19. [System Design Questions/Concepts Categorised with real world case studies](https://github.com/binhnguyennus/awesome-scalability)
 
 #### For Video Enthusiasts
 1. [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
