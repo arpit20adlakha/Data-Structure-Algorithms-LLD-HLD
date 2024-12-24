@@ -94,6 +94,7 @@
 17. [System Design Chapter Wise](https://github.com/karanpratapsingh/system-design)
 18. [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 19. [System Design Questions/Concepts Categorised with real world case studies](https://github.com/binhnguyennus/awesome-scalability)
+20. [Jordan has no life System Design 2.0 Slides](jordanhasnolife.substack.com)
 
 #### For Video Enthusiasts
 1. [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
@@ -103,6 +104,7 @@
 5. [Alex Xu Byte Byte Go](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw)
 6. [Database Depth CMU](https://www.youtube.com/c/CMUDatabaseGroup/videos)
 7. [Arpit Bhayani Youtube](https://www.youtube.com/@AsliEngineering)
+8. [Jordan has no life](https://www.youtube.com/@jordanhasnolife5163)
 
 ### DataBase Designs, SQL vs NoSQl
 1. [Vertabelo Database Articles](https://www.vertabelo.com/blog/)
@@ -120,6 +122,7 @@
 
 ### Interview Day Help
 1. [Questions to Ask Yourself while solving Problems](https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/edit#gid=0)
+2. [Jordan has no life powerpoint slides](https://drive.google.com/drive/folders/1ChodcbMZ4KqS9WP9gin4sLVdCsgD3uoE)
 
 
 ## Concepts and Articles for System Design
